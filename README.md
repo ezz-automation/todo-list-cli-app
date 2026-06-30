@@ -9,3 +9,16 @@ A simple, crash-resistant Python CLI application designed to manage daily tasks 
 
 ## 🛠️ Tech Stack
 * Python 3.x (Lists, Loops, Functions, and Exception Handling)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+\`\`\`bash
+git clone https://github.com/ezzcodes-hub/todo-list-cli-app.git
+cd todo-list-cli-app
+\`\`\`
+
+2. Run the application:
+\`\`\`bash
+python todo.py
+\`\`\`
