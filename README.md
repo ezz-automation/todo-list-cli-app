@@ -13,12 +13,12 @@ A simple, crash-resistant Python CLI application designed to manage daily tasks 
 ## 🚀 How to Run
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/ezzcodes-hub/todo-list-cli-app.git
 cd todo-list-cli-app
-\`\`\`
+```
 
 2. Run the application:
-\`\`\`bash
+```bash
 python todo.py
-\`\`\`
+```
